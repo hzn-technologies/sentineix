@@ -49,4 +49,4 @@ export function debounce<T extends (...args: any[]) => void>(
     clearTimeout(timer);
     timer = setTimeout(() => func(...args), delay);
   };
-}
+}    
