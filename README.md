@@ -1,4 +1,4 @@
-![SentineIX Banner](https://raw.githubusercontent.com/Horizon-Labs1/sentineix/refs/heads/main/Banner.png)
+![SentineIX Banner](https://raw.githubusercontent.com/hzn-technologies/sentineix/refs/heads/main/Banner.png)
 
 <h1 align="center" style="background-color:#f4f4f4; padding:10px; border-radius:10px;">SentinelX - AI-Powered Smart Contract Auditing</h1>
 
